@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="One Table " max_length="40" name="x_69202_git_hub_8t_one_table" type="collection">
+        <element label="CUs Name" max_length="40" name="cus_name" type="string"/>
+    </element>
+</database>
